@@ -12,8 +12,8 @@ public class TestOne {
 		list.add("111");
 		list.add("123");
 		ArrayList<String> list2 = new ArrayList<String>();
-		list.add("22");
-		list.add("33");
+		list.add("22aaa");
+		list.add("33bbb");
 		ArrayList<String> list3 = new ArrayList<String>();
 		list3.add("1");
 		System.out.println("哈哈哈哈哈哈");
