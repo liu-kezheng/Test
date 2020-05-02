@@ -10,6 +10,8 @@ public class TestOne {
 		System.out.println("提交测试");
 		ArrayList<String> list = new ArrayList<String>();
 		list.add("1");
+		ArrayList<String> list3 = new ArrayList<String>();
+		list3.add("1");
 
 	}
 }
