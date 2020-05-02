@@ -20,5 +20,6 @@ public class TestOne {
 		System.out.println("哈哈哈哈哈哈");
 		System.out.println("哈哈哈哈哈哈2");
 		System.out.println("哈哈哈哈哈哈2234");
+		System.out.println("哈哈哈哈哈哈2236");
 	}
 }
