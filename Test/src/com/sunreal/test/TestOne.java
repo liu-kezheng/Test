@@ -9,5 +9,6 @@ public class TestOne {
 		System.out.println("解决分zsd支问题");
 		System.out.println("第一次提交");
 		System.out.println("第一次asdad提交");
+		System.out.println("第一次asdad提交");
 	}
 }
