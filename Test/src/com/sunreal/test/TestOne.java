@@ -19,5 +19,6 @@ public class TestOne {
 		list3.add("1");
 		System.out.println("哈哈哈哈哈哈");
 		System.out.println("哈哈哈哈哈哈223");
+		System.out.println("aaa");
 	}
 }
