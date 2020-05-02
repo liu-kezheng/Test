@@ -11,5 +11,6 @@ public class TestOne {
 		ArrayList<String> list = new ArrayList<String>();
 		list.add("111");
 		list.add("123");
+		ArrayList<String> list2 = new ArrayList<String>();
 	}
 }
