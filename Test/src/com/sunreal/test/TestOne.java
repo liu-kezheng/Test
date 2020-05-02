@@ -12,5 +12,9 @@ public class TestOne {
 		list.add("111");
 		list.add("123");
 		ArrayList<String> list2 = new ArrayList<String>();
+		list.add("22");
+		list.add("33");
+		ArrayList<String> list3 = new ArrayList<String>();
+		list3.add("1");
 	}
 }
