@@ -9,6 +9,9 @@ public class TestOne {
 		System.out.println("第一次下拉");
 		System.out.println("提交测试");
 		ArrayList<String> list = new ArrayList<String>();
+		list.add("111");
+		list.add("123");
+		ArrayList<String> list2 = new ArrayList<String>();
 		list.add("22");
 		list.add("33");
 		ArrayList<String> list3 = new ArrayList<String>();
