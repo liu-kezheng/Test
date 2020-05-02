@@ -18,6 +18,6 @@ public class TestOne {
 		ArrayList<String> list3 = new ArrayList<String>();
 		list3.add("1");
 		System.out.println("哈哈哈哈哈哈");
-		System.out.println("哈哈哈哈哈哈2");
+		System.out.println("哈哈哈哈哈哈223");
 	}
 }
