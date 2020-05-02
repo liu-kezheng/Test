@@ -10,6 +10,6 @@ public class TestOne {
 		System.out.println("提交测试");
 		ArrayList<String> list = new ArrayList<String>();
 		list.add("111");
-
+		list.add("123");
 	}
 }
